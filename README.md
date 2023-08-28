@@ -1,4 +1,4 @@
-## Olá, meu nome é Victor.
+## Hi, my name is Victor.
 
 <div align="center">
     <a href="https://github.com/victorcabral182">
