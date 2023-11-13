@@ -1,23 +1,22 @@
-# 👋 Olá, eu sou Victor!
+# 👋 Hello, I'm Victor!
 
-## Sobre mim
-Atualmente, sou um desenvolvedor frontend na empresa Globalsys, onde utilizo minhas habilidades em HTML, CSS e JavaScript para criar interfaces responsivas. Tenho uma paixão especial por bibliotecas modernas como React e frameworks como Next.js, que tornam o desenvolvimento web mais eficiente e poderoso.
+## About me
+Currently, I'm a frontend developer at Globalsys, where I use my skills in HTML, CSS, and JavaScript to create responsive interfaces. I have a special passion for modern libraries like React and frameworks like Next.js, which make web development more efficient and powerful.
 
-Além disso, sou proficiente em ferramentas de design como Tailwind e Material UI.
+Additionally, I am proficient in design tools such as Tailwind and Material UI.
 
-## O que eu faço
-- 💻 Desenvolvedor Frontend na Globalsys
-- 🚀 Trabalho com React e Next.js
-- 🎨 Experiência em Tailwind, Material UI entre outros
-- 🔗 Conhecimento em integração e requisições assíncronas, GrapQL
+## What I do
+- 💻 Frontend Developer at Globalsys
+- 🚀 Working with React and Next.js
+- 🎨 Experience with Tailwind, Material UI, among others
+- 🔗 Knowledge in integration, asynchronous requests, GraphQL
 
-## Em expansão para o Backend
-Recentemente, iniciei minha jornada de aprendizado no mundo do backend, focando especialmente no Node.js e suas funcionalidades. Estou animado com a perspectiva de me tornar um desenvolvedor fullstack, unindo minhas habilidades no frontend com uma sólida compreensão do lado do servidor.
+## Expanding into Backend
+Recently, I've embarked on a learning journey into the backend world, focusing especially on Node.js and its functionalities. I'm excited about the prospect of becoming a fullstack developer, combining my frontend skills with a solid understanding of server-side development.
 
-Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a colaborações e feedback. Vamos construir algo incrível juntos! 👨‍💻✨
+Feel free to explore my repositories and projects. I'm always open to collaborations and feedback. Let's build something amazing together! 👨‍💻✨
 
-Obrigado por visitar meu perfil! 😊
-
+Thanks for visiting my profile! 😊
 
 <div align="center">
     <a href="https://github.com/victorcabral182">
