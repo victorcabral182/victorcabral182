@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Victor!
 
 ## About me
-Currently, I'm a frontend developer at Globalsys, where I use my skills in HTML, CSS, and JavaScript to create responsive interfaces. I have a special passion for modern libraries like React and frameworks like Next.js, which make web development more efficient and powerful.
+Currently, I'm a frontend developer at Globalsys, where I use my skills in HTML, CSS, and JavaScript to create responsive interfaces. I really like to use React and frameworks like Next.js, which make web development more efficient and powerful.
 
 Additionally, I am proficient in design tools such as Tailwind and Material UI.
 
@@ -11,12 +11,7 @@ Additionally, I am proficient in design tools such as Tailwind and Material UI.
 - 🎨 Experience with Tailwind, Material UI, among others
 - 🔗 Knowledge in integration, asynchronous requests, GraphQL
 
-## Expanding into Backend
-Recently, I've embarked on a learning journey into the backend world, focusing especially on Node.js and its functionalities. I'm excited about the prospect of becoming a fullstack developer, combining my frontend skills with a solid understanding of server-side development.
-
 Feel free to explore my repositories and projects. I'm always open to collaborations and feedback. Let's build something amazing together! 👨‍💻✨
-
-Thanks for visiting my profile! 😊
 
 <div align="center" width="100%">
     <a href="https://github.com/victorcabral182">
