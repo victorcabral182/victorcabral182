@@ -3,14 +3,6 @@
 ## About me
 Currently, I'm a frontend developer at Globalsys, where I use my skills in HTML, CSS, and JavaScript to create responsive interfaces. I really like to use React and frameworks like Next.js, which make web development more efficient and powerful.
 
-Additionally, I am proficient in design tools such as Tailwind and Material UI.
-
-## What I do
-- 💻 Frontend Developer at Globalsys
-- 🚀 Working with React and Next.js
-- 🎨 Experience with Tailwind, Material UI, among others
-- 🔗 Knowledge in integration, asynchronous requests, GraphQL
-
 Feel free to explore my repositories and projects. I'm always open to collaborations and feedback. Let's build something amazing together! 👨‍💻✨
 
 <div align="center" width="100%">
