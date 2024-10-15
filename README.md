@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Victor!
 
 ## About me
-Currently, I'm a frontend developer at Globalsys, where I use my skills in HTML, CSS, and JavaScript to create responsive interfaces. I really like to use React and frameworks like Next.js, which make web development more efficient and powerful.
-
+Frontend Developer, specialized in React. <br><br>
+Working professionally in web development since 2023, enhancing application performance and integrations, and actively participating in the development of various systems using React.js/Next.js/Vite.js. <br><br>
+I am passionate about building successful products, a great team player, always focused on delivering the best user experience, curious, and determined to solve problems or bring new ideas to life. <br><br>
 Feel free to explore my repositories and projects. I'm always open to collaborations and feedback. Let's build something amazing together! 👨‍💻✨
 
 <div align="center" width="100%">
@@ -19,6 +20,8 @@ Feel free to explore my repositories and projects. I'm always open to collaborat
     <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>          
+    <img align="center" alt="GraphQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />     
     <img align="center" alt="React Router" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
     <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
     <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
@@ -26,11 +29,12 @@ Feel free to explore my repositories and projects. I'm always open to collaborat
    
 ## Exploring 📚
 <div style="display: flex" align="left"><br> 
+    <img align="center" alt="Unity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+    <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
     <img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-    <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
-    
 </div>
 
 
