@@ -1,10 +1,11 @@
 # 👋 Hello, I'm Victor!
 
 ## About me
-Frontend Developer, specialized in React. <br><br>
-Working professionally in web development since 2023, enhancing application performance and integrations, and actively participating in the development of various systems using React.js/Next.js/Vite.js. <br><br>
-I am passionate about building successful products, a great team player, always focused on delivering the best user experience, curious, and determined to solve problems or bring new ideas to life. <br><br>
-Feel free to explore my repositories and projects. I'm always open to collaborations and feedback. Let's build something amazing together! 👨‍💻✨
+Frontend Developer, with robust expertise in React.
+
+Passionate about building new projects, a great team player, always focused on delivering the best user experience, curious and determined to solve problems and put new ideas into practice.
+
+Continuously focused on expanding my knowledge of frontend development, learning new technologies, frameworks, and embracing new experiences. 👨‍💻✨
 
 <div align="center" width="100%">
     <a href="https://github.com/victorcabral182">
