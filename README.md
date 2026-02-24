@@ -1,11 +1,15 @@
 # 👋 Hello, I'm Victor!
 
 ## About me
-Frontend Developer, with robust expertise in React.
+Frontend Developer specialized in React & Next.js, with 3 years of experience building modern and responsive web applications. 
 
-Passionate about building new projects, a great team player, always focused on delivering the best user experience, curious and determined to solve problems and put new ideas into practice.
+Worked on projects that digitize processes for engineering companies, e-commerce platforms, back-office systems, vehicle inspection solutions, and logistics management systems—boosting business efficiency and performance.
 
-Continuously focused on expanding my knowledge of frontend development, learning new technologies, frameworks, and embracing new experiences. 👨‍💻✨
+Have advanced proficiency in React, Next.js, and Vite.js. My experience includes building applications using GraphQL, Axios and Tanstack Query to optimize API calls, as well as Redux and Zustand for state management. I work with agile methodologies and automated testing, ensuring high-quality and efficient deliveries.
+
+In previous projects, I implemented SSR and SSG with Next.js, achieving significant improvements in load times and overall user experience. I work in collaborative teams ranging from 2 to 10 people, always aiming for top performance and strong results.
+
+I’m open to opportunities at companies that value innovation and efficiency, where I can apply my frontend expertise and contribute to high-quality solutions.
 
 <!-- <div align="center" width="100%">
     <a href="https://github.com/victorcabral182">
@@ -52,4 +56,5 @@ Continuously focused on expanding my knowledge of frontend development, learning
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-pereira-cabral-62859926b/)](https://www.linkedin.com/in/victor-pereira-cabral-62859926b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/victorcabral182/)](https://www.instagram.com/victorcabral182/)
+
 
